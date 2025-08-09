@@ -1,3 +1,9 @@
+This project is a test for the [faceit-visa](https://www.npmjs.com/package/faceit-visa) package, which provides OAuth 2.0 authentication for Faceit.
+
+Links:
+- [faceit-visa on npm](https://www.npmjs.com/package/faceit-visa)
+- [faceit-visa on GitHub](https://github.com/shadiflo/faceit-visa)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
